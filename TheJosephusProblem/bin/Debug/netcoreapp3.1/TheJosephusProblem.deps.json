@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TheJosephusProblem/1.0.0": {
+        "runtime": {
+          "TheJosephusProblem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheJosephusProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
